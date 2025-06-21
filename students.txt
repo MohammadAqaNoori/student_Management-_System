@@ -1,0 +1,6 @@
+
+FA24-BSE-001|Aslam Khan|Software Engineering|2nd|aslam@gmail.com|921231235665
+FA24-BSE-005|Shariq Afzal|Software Engineering|2nd|shariq@gmail.com|923456789987
+FA24-BSE-002|Aqa Noori|Software Engineering|2nd|aqa@gmail.com|913458909876
+FA24-BSE-004|Adil Khan|Software Engineering|2nd|adil@gmail.com|923456787653
+FA24-BSE-003|Farooq Asghar|Software Engineering|2nd|asghar@gmail.com|913456754321
